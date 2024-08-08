@@ -33,7 +33,7 @@ The database `pizzahut` includes the following tables:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   [https://github.com/rajusau/pizza-sales-analysis.git]
+    git clone https://github.com/rajusau/pizza-sales-analysis.git
 2. Import the CSV files into MySQL Workbench.
 3. Run the SQL scripts provided in the folder to create tables and insert data.
 4. Execute the queries to analyze the data.
